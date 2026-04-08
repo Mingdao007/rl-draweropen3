@@ -1,0 +1,4 @@
+interface:
+  display_name: "RL DrawerOpen3"
+  short_description: "Reproduce the DATA8010 HW2 drawer-open-v3 workflow."
+  default_prompt: "Use $rl-draweropen3 to run the canonical DATA8010 HW2 drawer-open-v3 workflow, rebuild the markdown report, or rebuild the final submission bundle."
