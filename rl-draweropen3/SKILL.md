@@ -1,6 +1,12 @@
 ---
 name: rl-draweropen3
-description: Reproduce the exact DATA8010 Homework 2 MetaWorld drawer-open-v3 workflow built around the Assignment_2 script layout: inspect the environment, run the canonical 4-run campaign, regenerate plots, rebuild the markdown report, and assemble the final bundle. Use for requests like drawer-open-v3, DATA8010 HW2, run the canonical campaign, rebuild the report, or rebuild the final bundle.
+description: |
+  Reproduce the exact DATA8010 Homework 2 MetaWorld drawer-open-v3 workflow
+  built around the Assignment_2 script layout: inspect the environment, run the
+  canonical 4-run campaign, regenerate plots, rebuild the markdown report, and
+  assemble the final bundle. Use for requests like drawer-open-v3, DATA8010
+  HW2, run the canonical campaign, rebuild the report, or rebuild the final
+  bundle.
 metadata:
   author: andy
   version: 0.2.0
